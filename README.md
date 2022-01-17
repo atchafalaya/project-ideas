@@ -1,10 +1,10 @@
 # project-ideas
 
-I'm interested in exploring the functionality of the sites that hold information for regional emergency preparedness. 
+I'm interested in exploring the functionality of the sites about local government law enforcement.
 
 
-Here in Acadiana, because we see hurricanes nearly every year, it's important that they function correctly under all conditions.
-
+* https://www.lafayettela.gov
+* https://www.lafayettesheriff.com/site.php
 * http://www.lafayetteohsep.org/
 * http://lafayette911.org/
 * https://www.lafayettela.gov/
